@@ -1,0 +1,7 @@
+.justify-content-between{
+    justify-content: space-between;        /* căn chỉnh item theo chiều ngang  
+                                                     2 cái 2 đầu*/  
+}
+.d-flex{
+    display: flex;          /* Sắp xếp menu nằm ngang  */ 
+}
